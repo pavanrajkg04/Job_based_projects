@@ -20,4 +20,3 @@ Here is a hint: Calculating the following measures could help to define proper K
 Average performance rating: men
 Average Performance rating: women
 
-https://8000-pavanrajkg0-djangoproje-2vyidrsfwvd.ws-us115.gitpod.io/
